@@ -11,7 +11,7 @@
       <img src="image.png" alt="Art Emotions Image" width="250">
     </td>
     <td>
-      <h3> <a  href = "https://github.com/natalie-ava/ArtEmotions)">Art Emotions</a></h3>
+      <h3> <a  href = "https://github.com/natalie-ava/ArtEmotions">Art Emotions</a></h3>
       <p>ArtEmotions aims to predict emotional responses to artworks by analyzing features such as art period, creation year, medium, and subject focus. Building upon the <a href="https://saifmohammad.com/WebPages/wikiartemotions.html">WikiArt Emotions dataset</a>, which comprises 4,105 artworks annotated for emotions evoked in observers, this project refines the data and develops a predictive model to classify viewer reactions as positive, negative, or mixed.
  </p>
     </td>
