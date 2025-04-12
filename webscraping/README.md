@@ -4,28 +4,29 @@ This folder contains two exploratory projects where I scraped and analyzed data 
 
 ## Project Overviews
 
-### [Data Scrape: Yelp and MathJobs](x)
+### [Data Scrape: Yelp and MathJobs](https://github.com/natalie-ava/portfolio/blob/main/webscraping/data_scrape.ipynb)
 Scraped restaurant listings from Yelp including:
 - Names, review counts, star ratings, categories, and price levels
 - Used pandas to clean and structure the data
 - Explored relationships between price, category, and rating
+  
 MathJobs Academic Listing Scraping:
 - Scraped job listings from MathJobs.org, including job title, institution, and posting details
 - Filtered by department type and keyword matches (e.g., “Data Science”)
 - Used regex and string cleaning to format text data for exploration
 
-### [TripAdvisor Scraping](x)
+### [TripAdvisor Scraping](https://github.com/natalie-ava/portfolio/blob/main/webscraping/TripAdvisor_scrape.ipynb)
 Extracted data on:
 - Restaurant names, locations, number of reviews, and rankings
 - Identified common cuisines and average review trends
 - Explored geographic concentration of highly rated restaurants
 
 ## Tools & Libraries
-- Python
-- BeautifulSoup
-- requests
-- pandas
-- matplotlib and seaborn (for visual exploration)
+- `Python`
+- `BeautifulSoup`
+- `requests`
+- `pandas`
+- `matplotlib` and `seaborn` (for visual exploration)
 
 ## Skills Demonstrated
 - Web scraping from static HTML pages
