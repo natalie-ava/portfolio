@@ -11,7 +11,7 @@ Expected Graduation: May 2026
 <table>
   <tr>
     <td>
-      <img src="image.png" alt="Art Emotions Image" width="250">
+      <img src="https://github.com/natalie-ava/portfolio/blob/main/images/artemotions.png" alt="Art Emotions Image" width="500">
     </td>
     <td>
       <h3> <a  href = "https://github.com/natalie-ava/ArtEmotions">Art Emotions</a></h3>
