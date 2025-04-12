@@ -21,8 +21,8 @@
       <img src="image.png" alt="Web Scraping Project Image" width="250">
     </td>
     <td>
-      <h3> <a  href = "link">Comprehensive Web Scraping with BeautifulSoup & Selenium</a></h3>
-      <p> add details </p>
+      <h3> <a  href = "link">Comprehensive Web Scraping with BeautifulSoup</a></h3>
+      <p> A collection of web scraping projects focused on collecting and analyzing restaurant data from Yelp and TripAdvisor. Using BeautifulSoup and pandas, I gathered information on ratings, categories, price levels, and review counts, and explored trends in user engagement and restaurant types. These projects highlight hands-on experience with real-world data extraction and exploratory analysis.</p>
     </td>
   </tr>
   <tr>
