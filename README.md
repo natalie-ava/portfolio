@@ -1,7 +1,10 @@
 # Natalie Ava Huang 
-*Data Science Portfolio*
+*Data Science Portfolio* | Exploring the intersection of data, creativity, and human insight
 
 ## Education
+**University of the Incarnate Word**  
+*B.S. in Data Science, Minor in Art History*  
+Expected Graduation: May 2026  
 
 ## Projects
 
@@ -22,7 +25,7 @@
     </td>
     <td>
       <h3> <a  href = "link">Comprehensive Web Scraping with BeautifulSoup</a></h3>
-      <p> A collection of web scraping projects focused on collecting and analyzing restaurant data from Yelp and TripAdvisor. Using BeautifulSoup and pandas, I gathered information on ratings, categories, price levels, and review counts, and explored trends in user engagement and restaurant types. These projects highlight hands-on experience with real-world data extraction and exploratory analysis.</p>
+      <p> A collection of web scraping projects using BeautifulSoup and pandas to extract and explore data from public websites. These projects focus on identifying trends across platforms and demonstrate hands-on experience with real-world data workflows.</p>
     </td>
   </tr>
   <tr>
@@ -32,10 +35,19 @@
   <td>
     <h3><a href="https://github.com/natalie-ava/portfolio/tree/main/EDA_diabetes">Diabetes & Fracture Prevalence EDA</a></h3>
     <p>
-      This exploratory data analysis focuses on a male population based in San Antonio, TX to examine the relationship between diabetes, age, fracture prevalence, and bone health. I merged health-related datasets using Python and created columns to capture diabetic and fracture status. Through countplots, violin plots, and correlation heatmaps, I found that diabetics over 70 were more prone to fractures and had lower calcium levels. These insights highlight age- and race-based health disparities and support broader public health recommendations.
+      This exploratory data analysis focuses on the relationship between diabetes, age, fracture prevalence, and bone health in a male population in San Antonio, TX. Health-related datasets were merged and processed using Python to identify diabetic and fracture status. These insights highlight age and race based health disparities and support broader public health recommendations.
     </p>
   </td>
 </tr>
 </table>
 
 ## Certifications
+
+All courses completed through Coursera, issued by Google.
+
+- [**Foundations of Data Science**](https://www.coursera.org/account/accomplishments/verify/D882BUBWTMLG)
+- [**The Power of Statistics**](https://www.coursera.org/account/accomplishments/verify/1JAISE85ZFB0)
+- [**Go Beyond the Numbers: Translate Data into Insights**](https://www.coursera.org/account/accomplishments/verify/L6WRCEEN8FI0)
+- [**Regression Analysis: Simplify Complex Data Relationships**](https://www.coursera.org/account/accomplishments/verify/2M2C884868L7)
+- [**The Nuts and Bolts of Machine Learning**](https://www.coursera.org/account/accomplishments/verify/1TSCMKJSR1X3)
+- [**Get Started with Python**](https://www.coursera.org/account/accomplishments/verify/APFTMLZAN1HR)
