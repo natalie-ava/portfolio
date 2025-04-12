@@ -1,14 +1,18 @@
-# Restaurant Review Scraping Projects
+# Web Scraping Projects
 
-This folder contains two exploratory projects where I scraped and analyzed restaurant data from major review platforms: Yelp and TripAdvisor. Both projects focus on extracting structured insights from unstructured HTML data using Python and BeautifulSoup.
+This folder contains two exploratory projects where I scraped and analyzed data from public websites: Yelp, MathJobs, and TripAdvisor. These projects focus on extracting structured insights from unstructured HTML data using Python and BeautifulSoup.
 
 ## Project Overviews
 
-### [Yelp Scraping](x)
-Scraped restaurant listings including:
+### [Data Scrape: Yelp and MathJobs](x)
+Scraped restaurant listings from Yelp including:
 - Names, review counts, star ratings, categories, and price levels
 - Used pandas to clean and structure the data
 - Explored relationships between price, category, and rating
+MathJobs Academic Listing Scraping:
+- Scraped job listings from MathJobs.org, including job title, institution, and posting details
+- Filtered by department type and keyword matches (e.g., “Data Science”)
+- Used regex and string cleaning to format text data for exploration
 
 ### [TripAdvisor Scraping](x)
 Extracted data on:
@@ -31,4 +35,4 @@ Extracted data on:
 
 ---
 
-Each notebook is self-contained and includes data extraction, cleaning, and exploratory steps. These projects were completed as part of group and individual coursework and reflect growing experience in data collection from public sources.
+Each notebook is self-contained and includes data extraction, cleaning, and exploratory steps. These projects were completed as part of coursework and reflect growing experience in data collection from public sources.
