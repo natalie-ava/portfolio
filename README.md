@@ -24,7 +24,7 @@ Expected Graduation: May 2026
       <img src="https://github.com/natalie-ava/portfolio/blob/main/images/webscraping.png" alt="Web Scraping Project Image" width="500">
     </td>
     <td>
-      <h3> <a  href = "link">Comprehensive Web Scraping with BeautifulSoup</a></h3>
+      <h3> <a  href = "https://github.com/natalie-ava/portfolio/tree/main/webscraping">Comprehensive Web Scraping with BeautifulSoup</a></h3>
       <p> A collection of web scraping projects using BeautifulSoup and pandas to extract and explore data from public websites. These projects focus on identifying trends across platforms and demonstrate hands-on experience with real-world data workflows.</p>
     </td>
   </tr>
