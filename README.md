@@ -21,7 +21,7 @@ Expected Graduation: May 2026
   </tr>
   <tr>
     <td>
-      <img src="image.png" alt="Web Scraping Project Image" width="250">
+      <img src="https://github.com/natalie-ava/portfolio/blob/main/images/webscraping.png" alt="Web Scraping Project Image" width="500">
     </td>
     <td>
       <h3> <a  href = "link">Comprehensive Web Scraping with BeautifulSoup</a></h3>
