@@ -30,7 +30,7 @@ Expected Graduation: May 2026
   </tr>
   <tr>
   <td>
-    <img src="images/diabetes_eda.png" alt="Diabetes EDA Image" width="250">
+    <img src="https://github.com/natalie-ava/portfolio/blob/main/images/EDA_diabetes.png" alt="Diabetes EDA Image" width="500">
   </td>
   <td>
     <h3><a href="https://github.com/natalie-ava/portfolio/tree/main/EDA_diabetes">Diabetes & Fracture Prevalence EDA</a></h3>
@@ -41,7 +41,7 @@ Expected Graduation: May 2026
 </tr>
   <tr>
   <td>
-    <img src="images/data2399_cover.png" alt="Workflow Automation Projects" width="250">
+    <img src="https://github.com/natalie-ava/portfolio/blob/main/images/data2399.png" alt="Workflow Automation Projects" width="500">
   </td>
   <td>
     <h3><a href="https://github.com/natalie-ava/workflow_automation/tree/main"> Workflow Automation with Python (DATA 2399)</a></h3>
