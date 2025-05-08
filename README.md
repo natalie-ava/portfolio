@@ -20,6 +20,17 @@ Expected Graduation: May 2026
     </td>
   </tr>
   <tr>
+  <td>
+    <img src="https://github.com/natalie-ava/GoogleADA_Capstone/blob/main/images/googleada.png" alt="Google's Advanced Data Analytics Capstone" width="500">
+  </td>
+  <td>
+    <h3><a href="https://github.com/natalie-ava/GoogleADA_Capstone">Google's Advanced Data Analytics Capstone</a></h3>
+    <p>
+      An exploratory data analytics and predictive modeling capstone project created as part of the Google Advanced Data Analytics Specialization. This project uses logistic regression to analyze HR data and predict which employees are at risk of leaving a company. The analysis involved cleaning and preparing a dataset of 15,000 records, exploring key features such as satisfaction, workload, salary, and tenure, and developing a predictive model using Python and scikit-learn. Key performance metrics such as accuracy, precision, recall, F1-score, and AUC were used to evaluate the model, along with visualizations like heatmaps and confusion matrices. Final recommendations translate model insights into recommendations for HR teams to improve retention.
+    </p>
+  </td>
+</tr>
+  <tr>
     <td>
       <img src="https://github.com/natalie-ava/portfolio/blob/main/images/webscraping.png" alt="Web Scraping Project Image" width="500">
     </td>
