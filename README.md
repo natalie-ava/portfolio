@@ -21,7 +21,7 @@ Expected Graduation: May 2026
   </tr>
   <tr>
   <td>
-    <img src="https://github.com/natalie-ava/GoogleADA_Capstone/blob/main/images/googleada.png" alt="Google's Advanced Data Analytics Capstone" width="500">
+    <img src="https://github.com/natalie-ava/portfolio/blob/main/images/googleada.png" alt="Google's Advanced Data Analytics Capstone" width="500">
   </td>
   <td>
     <h3><a href="https://github.com/natalie-ava/GoogleADA_Capstone">Google's Advanced Data Analytics Capstone</a></h3>
