@@ -63,13 +63,16 @@ Expected Graduation: May 2026
 </tr>
 </table>
 
-## Certifications
+## Certificates
 
 All courses completed through Coursera, issued by Google.
 
-- [**Foundations of Data Science**](https://www.coursera.org/account/accomplishments/verify/D882BUBWTMLG)
-- [**The Power of Statistics**](https://www.coursera.org/account/accomplishments/verify/1JAISE85ZFB0)
-- [**Go Beyond the Numbers: Translate Data into Insights**](https://www.coursera.org/account/accomplishments/verify/L6WRCEEN8FI0)
-- [**Regression Analysis: Simplify Complex Data Relationships**](https://www.coursera.org/account/accomplishments/verify/2M2C884868L7)
-- [**The Nuts and Bolts of Machine Learning**](https://www.coursera.org/account/accomplishments/verify/1TSCMKJSR1X3)
-- [**Get Started with Python**](https://www.coursera.org/account/accomplishments/verify/APFTMLZAN1HR)
+- [**Google Advanced Data Analytics**](https://www.coursera.org/account/accomplishments/professional-cert/0LKKN8APW8MU)
+  
+  **Coursework Certificates**
+  - [**Foundations of Data Science**](https://www.coursera.org/account/accomplishments/verify/D882BUBWTMLG)
+  - [**The Power of Statistics**](https://www.coursera.org/account/accomplishments/verify/1JAISE85ZFB0)
+  - [**Go Beyond the Numbers: Translate Data into Insights**](https://www.coursera.org/account/accomplishments/verify/L6WRCEEN8FI0)
+  - [**Regression Analysis: Simplify Complex Data Relationships**](https://www.coursera.org/account/accomplishments/verify/2M2C884868L7)
+  - [**The Nuts and Bolts of Machine Learning**](https://www.coursera.org/account/accomplishments/verify/1TSCMKJSR1X3)
+  - [**Get Started with Python**](https://www.coursera.org/account/accomplishments/verify/APFTMLZAN1HR)
