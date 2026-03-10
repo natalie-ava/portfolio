@@ -1,5 +1,6 @@
 # Natalie Ava Huang 
 *Data Science Portfolio* | Exploring the intersection of data, creativity, and human insight
+Data Science Intern at ALSAC / St. Jude Children's Research Hospital
 
 ## Education
 **University of the Incarnate Word**  
