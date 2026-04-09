@@ -1,13 +1,13 @@
 # Natalie Ava Huang
 ### Data Science Portfolio
 
-*Exploring the intersection of data, creativity, and human insight.*
+*Data scientist with a background spanning healthcare outcomes, nonprofit analytics, behavioral data, and computational aesthetics.*
 
-**Data Science Intern — ALSAC / St. Jude Children’s Research Hospital**
-## Education
-**University of the Incarnate Word**  
-*B.S. in Data Science, Minors in Mathematics and Art History*  
-Expected Graduation: May 2026  
+I study Data Science and Art History at the University of the Incarnate Word (graduating May 2026). Understanding how humans interpret, feel, and behave is just as important as knowing which predictive model to reach for, and this shapes how I approach every project I work on.
+
+Currently interning at **ALSAC – St. Jude Children's Research Hospital**
+
+**Skills:** Python (pandas, scikit-learn, BeautifulSoup) · SQL (Microsoft SQL Server) · Stata · Tableau · Machine Learning · Statistical Analysis · Data Visualization
 
 ## Projects
 
@@ -23,7 +23,10 @@ Expected Graduation: May 2026
 <b>Skills:</b> Python | Machine Learning | Random Forest | Data Visualization
 
 <p>
-ArtEmotions aims to predict emotional responses to artworks by analyzing features such as art period, creation year, medium, and subject focus. Building upon the <a href="https://saifmohammad.com/WebPages/wikiartemotions.html">WikiArt Emotions dataset</a>, which comprises 4,105 artworks annotated for emotions evoked in observers, this project refines the data and develops a predictive model to classify viewer reactions as positive, negative, or mixed.
+ Can machine learning predict how a piece of art will make you feel? This project says: to a meaningful degree, yes.
+
+Working with a 3-person team, I cleaned and analyzed the <a href="https://saifmohammad.com/WebPages/wikiartemotions.html">WikiArt Emotions dataset</a> (4,105 annotated artworks), engineered features from emotion annotations, and trained a Random Forest classifier to predict whether a viewer's emotional response would be positive, negative, or mixed. The model achieved **65.5% accuracy**, with strongest performance on positive emotion detection. Feature importance analysis revealed that art style, year of creation, and the presence of human figures were among the most predictive variables.
+
 </p>
 
 </td>
@@ -47,7 +50,27 @@ An econometric analysis examining how family structure and child characteristics
 
 </td>
 </tr>
+<tr><td colspan="2" height="40"></td></tr>
 
+<tr>
+<td>
+<img src="https://github.com/natalie-ava/portfolio/blob/main/images/EDA_diabetes.png" alt="Diabetes EDA Image" width="1800">
+</td>
+<td>
+
+<h3><a href="https://github.com/natalie-ava/Diabetes-BoneFracture-EDA">Diabetes & Fracture Prevalence EDA</a></h3>
+
+<b>Skills:</b> Python | Exploratory Data Analysis | Machine Learning | Healthcare Data
+
+<p>
+An ongoing research project with Dr. Md Rafiul Islam at University of the Incarnate Word and the UIW School of Osteopathy, examining fracture risk in diabetic male patients over 60 from San Antonio, TX.
+
+I merged and cleaned clinical datasets totaling **27,000+ patient records**, performed exploratory data analysis to surface relationships between age, diagnosis patterns, and biomarker levels, and developed a Random Forest model predicting fracture risk in diabetic men over 60 using vitamin D, calcium, and A1C as predictive features. Findings were presented at the **Texas Undergraduate Mathematics Conference**.
+
+</p>
+
+</td>
+</tr>
 <tr><td colspan="2" height="40"></td></tr>
 
 <tr>
@@ -62,25 +85,6 @@ An econometric analysis examining how family structure and child characteristics
 
 <p>
 An exploratory data analytics and predictive modeling capstone project created as part of the Google Advanced Data Analytics Specialization. This project uses logistic regression to analyze HR data and predict which employees are at risk of leaving a company. The analysis involved cleaning and preparing a dataset of 15,000 records, exploring key features such as satisfaction, workload, salary, and tenure, and developing a predictive model using Python and scikit-learn. Key performance metrics such as accuracy, precision, recall, F1-score, and AUC were used to evaluate the model, along with visualizations like heatmaps and confusion matrices. Final recommendations translate model insights into actionable recommendations for HR teams to improve retention.
-</p>
-
-</td>
-</tr>
-
-<tr><td colspan="2" height="40"></td></tr>
-
-<tr>
-<td>
-<img src="https://github.com/natalie-ava/portfolio/blob/main/images/EDA_diabetes.png" alt="Diabetes EDA Image" width="1800">
-</td>
-<td>
-
-<h3><a href="https://github.com/natalie-ava/Diabetes-BoneFracture-EDA">Diabetes & Fracture Prevalence EDA</a></h3>
-
-<b>Skills:</b> Python | Exploratory Data Analysis | Machine Learning | Healthcare Data
-
-<p>
-This project combines exploratory data analysis and predictive modeling to examine the relationship between fracture prevalence and clinical and lifestyle factors in a male population in San Antonio, TX. Health-related datasets comprising information from over 27,000 male patients were cleaned and merged using Python to identify key clinical indicators. Building on these insights, machine learning models were developed to predict fracture risk in diabetic men based on variables such as vitamin D, calcium, and A1C levels. This work is part of a research project in progress under the guidance of Dr. Md Raiful Islam, Assistant Professor of Data Science at the University of the Incarnate Word, and in collaboration with the UIW School of Osteopathy.
 </p>
 
 </td>
