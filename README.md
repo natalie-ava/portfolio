@@ -3,7 +3,7 @@
 
 *Data scientist with a background spanning healthcare outcomes, nonprofit analytics, behavioral data, and computational aesthetics.*
 
-I study Data Science and Art History at the University of the Incarnate Word (graduating May 2026). Understanding how humans interpret, feel, and behave is just as important as knowing which predictive model to reach for, and this shapes how I approach every project I work on.
+I study Data Science and Art History at the University of the Incarnate Word (graduating May 2026). Understanding how humans interpret, feel, and behave is just as important as knowing which predictive model to use, and this shapes how I approach every project I work on.
 
 Currently interning at **ALSAC – St. Jude Children's Research Hospital**
 
